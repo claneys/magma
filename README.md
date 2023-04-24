@@ -1,5 +1,4 @@
 # Magma dashboard 🌋
-BOUG
 
 Personal dashboard that is highly customizable, lightweight and responsive.
 
